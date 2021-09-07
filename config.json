@@ -1,6 +1,30 @@
 {
   "238 in our life": [
     {
+      "height": 58,
+      "compressed_path": "./photos/238 in our life/IMG_1130.min.jpeg",
+      "width": 397,
+      "compressed": false,
+      "placeholder_path": "./photos/238 in our life/IMG_1130.placeholder.jpeg",
+      "path": "./photos/238 in our life/IMG_1130.jpeg"
+    },
+    {
+      "height": 596,
+      "compressed_path": "./photos/238 in our life/IMG_1126.min.jpeg",
+      "width": 1239,
+      "compressed": false,
+      "placeholder_path": "./photos/238 in our life/IMG_1126.placeholder.jpeg",
+      "path": "./photos/238 in our life/IMG_1126.jpeg"
+    },
+    {
+      "height": 4032,
+      "compressed_path": "./photos/238 in our life/IMG_1146.min.jpeg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/238 in our life/IMG_1146.placeholder.jpeg",
+      "path": "./photos/238 in our life/IMG_1146.jpeg"
+    },
+    {
       "height": 2337,
       "compressed_path": "./photos/238 in our life/WechatIMG53730.min.png",
       "width": 1080,
@@ -89,6 +113,14 @@
       "path": "./photos/238 in our life/WechatIMG76994.jpeg"
     },
     {
+      "height": 1440,
+      "compressed_path": "./photos/238 in our life/IMG_1145.min.jpeg",
+      "width": 1080,
+      "compressed": false,
+      "placeholder_path": "./photos/238 in our life/IMG_1145.placeholder.jpeg",
+      "path": "./photos/238 in our life/IMG_1145.jpeg"
+    },
+    {
       "height": 616,
       "compressed_path": "./photos/238 in our life/WechatIMG70668.min.png",
       "width": 1170,
@@ -119,6 +151,14 @@
       "compressed": false,
       "placeholder_path": "./photos/238 in our life/WechatIMG61239.placeholder.png",
       "path": "./photos/238 in our life/WechatIMG61239.png"
+    },
+    {
+      "height": 4032,
+      "compressed_path": "./photos/238 in our life/IMG_1144.min.jpeg",
+      "width": 3024,
+      "compressed": false,
+      "placeholder_path": "./photos/238 in our life/IMG_1144.placeholder.jpeg",
+      "path": "./photos/238 in our life/IMG_1144.jpeg"
     },
     {
       "height": 1792,
