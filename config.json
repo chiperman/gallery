@@ -89,6 +89,14 @@
       "path": "./photos/238 in our life/IMG_1023.png"
     },
     {
+      "height": 741,
+      "compressed_path": "./photos/238 in our life/IMG_1213.min.jpeg",
+      "width": 422,
+      "compressed": false,
+      "placeholder_path": "./photos/238 in our life/IMG_1213.placeholder.jpeg",
+      "path": "./photos/238 in our life/IMG_1213.jpeg"
+    },
+    {
       "height": 1440,
       "compressed_path": "./photos/238 in our life/IMG_1022.min.png",
       "width": 1080,
