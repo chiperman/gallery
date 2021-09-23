@@ -41,6 +41,14 @@
       "path": "./photos/238 in our life/IMG_1151.jpeg"
     },
     {
+      "height": 1080,
+      "compressed_path": "./photos/238 in our life/1225811632375363_.pic.min.jpg",
+      "width": 1440,
+      "compressed": false,
+      "placeholder_path": "./photos/238 in our life/1225811632375363_.pic.placeholder.jpg",
+      "path": "./photos/238 in our life/1225811632375363_.pic.jpg"
+    },
+    {
       "height": 4032,
       "compressed_path": "./photos/238 in our life/IMG_1146.min.jpeg",
       "width": 3024,
@@ -55,6 +63,14 @@
       "compressed": false,
       "placeholder_path": "./photos/238 in our life/WechatIMG53730.placeholder.png",
       "path": "./photos/238 in our life/WechatIMG53730.png"
+    },
+    {
+      "height": 2436,
+      "compressed_path": "./photos/238 in our life/WechatIMG122461.min.jpeg",
+      "width": 1125,
+      "compressed": false,
+      "placeholder_path": "./photos/238 in our life/WechatIMG122461.placeholder.jpeg",
+      "path": "./photos/238 in our life/WechatIMG122461.jpeg"
     },
     {
       "height": 2339,
