@@ -33,12 +33,28 @@
       "path": "./photos/238 in our life/IMG_1126.jpeg"
     },
     {
+      "height": 2436,
+      "compressed_path": "./photos/238 in our life/1476331633781109_.pic_hd.min.jpg",
+      "width": 1125,
+      "compressed": false,
+      "placeholder_path": "./photos/238 in our life/1476331633781109_.pic_hd.placeholder.jpg",
+      "path": "./photos/238 in our life/1476331633781109_.pic_hd.jpg"
+    },
+    {
       "height": 1920,
       "compressed_path": "./photos/238 in our life/IMG_1151.min.jpeg",
       "width": 1080,
       "compressed": false,
       "placeholder_path": "./photos/238 in our life/IMG_1151.placeholder.jpeg",
       "path": "./photos/238 in our life/IMG_1151.jpeg"
+    },
+    {
+      "height": 2436,
+      "compressed_path": "./photos/238 in our life/1474071633770366_.pic.min.jpg",
+      "width": 1125,
+      "compressed": false,
+      "placeholder_path": "./photos/238 in our life/1474071633770366_.pic.placeholder.jpg",
+      "path": "./photos/238 in our life/1474071633770366_.pic.jpg"
     },
     {
       "height": 1080,
